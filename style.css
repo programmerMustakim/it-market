@@ -1,0 +1,112 @@
+.navbar{
+    margin-left: 90px;
+    margin-right: 90px;
+    border-radius: 45px;
+   
+}
+
+.navbar-nav{
+    position: relative;
+    left: 730px;
+}
+
+.carousel{
+   
+    background-image: url("banner-products/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: 59% ;
+    background-size: 5% 70%;
+   
+
+   
+}
+
+.align-items-center{
+    margin-left: 20px;
+}
+
+.colorfull{
+    color: aqua;
+    padding-bottom: 20px;
+}
+
+.link-button{
+    padding: 9px 30px;
+    border-radius: 7px;
+    background-image: linear-gradient(45deg, #FF589B, #FF136F);
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+
+
+.nav-link:hover{
+    background-color: greenyellow;
+    border-radius: 10px;
+}
+
+.container{
+    margin-bottom: 130px;
+}
+
+.e-gap{
+    margin-top: 80px;
+}
+
+.l-side{
+    color: yellowgreen;
+    position: relative;
+    left: 1177px;
+    top: o.1px;
+    padding-bottom: 30px;
+}
+
+.l-side:hover{
+    color: #FF136F;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 25px gray;
+    border-radius: 15px;
+}
+
+.u-line{
+    background-color: greenyellow;
+    padding: 1px 30px;
+    border-radius: 25px;
+}
+
+.categories{
+        text-align: center;
+}
+
+.i-3{
+    position: relative;
+    top: 130px;
+  
+}
+
+.i-2{
+    position: relative ;
+    left: 220px;
+    bottom: 140px;
+
+}
+
+.i-1{
+    position: relative;
+    left: 100px;
+}
+
+.box img{
+    width: 180px;
+    height: 180px;
+    box-shadow: 2px 2px 8px gray;
+    
+}
+
+footer{
+    text-align: center;
+   }
+  
